@@ -72,12 +72,14 @@ main img {
   width :100px;
   height: auto;
   float : left;
+  border-radius: 15%;
 }
 
 main img {
   height :100px;
   width: auto;
   float : left;
+  border-radius: 15%;
 }
 
 main h2 {
